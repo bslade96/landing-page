@@ -1,1 +1,1 @@
-# landing-page
+For this project I will be making a webpage. I will have shown how to properly apply CSS to my HTML file. I will have shown how to correctly position sections of the page to display how I would like it to by using certain by applying containers to my HTML file and adding selectors to them. Hope you enjoy!
