@@ -14,6 +14,10 @@ body {
     background-color: #1f2937;
 }
 
+.grey-block {
+    background-color: #e5e7eb;
+}
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -74,6 +78,14 @@ body {
     padding: 30px;
 }
 
+#quote {
+    font-weight: 300;
+    padding: 120px 0 100px 0;
+    font-style: italic;
+    text-align: start;
+    width: 785px;
+}
+
 .subtext {
     font-size: 18px;
     color: #2f3d51;
@@ -87,6 +99,7 @@ body {
     align-items: center;
     gap: 57px;
     margin-bottom: 100px;
+    margin-top: 10px
 }
 
 .info {
@@ -98,6 +111,15 @@ body {
     height: 160px;
     border: solid #3882f6;
     border-radius: 8px;
+}
+
+#quoted {
+    display: flex;
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    justify-content: end;
+    padding-right: 30px;
 }
 
 a {text-decoration: none}
